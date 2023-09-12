@@ -9,11 +9,11 @@ Iterations (x 10^6)
 <line opacity="0.2" stroke="#000000" stroke-width="1" x1="109" y1="244" x2="109" y2="15"/>
 <line opacity="0.2" stroke="#000000" stroke-width="1" x1="144" y1="244" x2="144" y2="15"/>
 <line opacity="0.2" stroke="#000000" stroke-width="1" x1="179" y1="244" x2="179" y2="15"/>
-<line opacity="0.2" stroke="#000000" stroke-width="1" x1="213" y1="244" x2="213" y2="15"/>
+<line opacity="0.2" stroke="#000000" stroke-width="1" x1="214" y1="244" x2="214" y2="15"/>
 <line opacity="0.2" stroke="#000000" stroke-width="1" x1="248" y1="244" x2="248" y2="15"/>
 <line opacity="0.2" stroke="#000000" stroke-width="1" x1="283" y1="244" x2="283" y2="15"/>
 <line opacity="0.2" stroke="#000000" stroke-width="1" x1="318" y1="244" x2="318" y2="15"/>
-<line opacity="0.2" stroke="#000000" stroke-width="1" x1="352" y1="244" x2="352" y2="15"/>
+<line opacity="0.2" stroke="#000000" stroke-width="1" x1="353" y1="244" x2="353" y2="15"/>
 <line opacity="0.2" stroke="#000000" stroke-width="1" x1="387" y1="244" x2="387" y2="15"/>
 <line opacity="0.2" stroke="#000000" stroke-width="1" x1="422" y1="244" x2="422" y2="15"/>
 <line opacity="0.2" stroke="#000000" stroke-width="1" x1="75" y1="244" x2="434" y2="244"/>
@@ -84,10 +84,10 @@ Iterations (x 10^6)
 15
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="179,245 179,250 "/>
-<text x="213" y="255" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="9.67741935483871" opacity="1" fill="#000000">
+<text x="214" y="255" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="9.67741935483871" opacity="1" fill="#000000">
 20
 </text>
-<polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="213,245 213,250 "/>
+<polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="214,245 214,250 "/>
 <text x="248" y="255" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="9.67741935483871" opacity="1" fill="#000000">
 25
 </text>
@@ -100,10 +100,10 @@ Iterations (x 10^6)
 35
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="318,245 318,250 "/>
-<text x="352" y="255" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="9.67741935483871" opacity="1" fill="#000000">
+<text x="353" y="255" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="9.67741935483871" opacity="1" fill="#000000">
 40
 </text>
-<polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="352,245 352,250 "/>
+<polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="353,245 353,250 "/>
 <text x="387" y="255" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="9.67741935483871" opacity="1" fill="#000000">
 45
 </text>
